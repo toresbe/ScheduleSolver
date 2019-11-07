@@ -1,0 +1,2 @@
+# ScheduleSolver
+Frikanalen schedule solver
